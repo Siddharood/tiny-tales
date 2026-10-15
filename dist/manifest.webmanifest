@@ -1,0 +1,12 @@
+{
+  "name": "Tiny Tales",
+  "short_name": "Tiny Tales",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fff8eb",
+  "theme_color": "#f5b544",
+  "description": "Little stories for little hands.",
+  "icons": [
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
